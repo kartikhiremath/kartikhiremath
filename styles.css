@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.title{
+    text-align: center;
+    color: #FFF;
+    transition: color .2s ease-in-out;
+    cursor: pointer;
+}
+.title:hover{
+    color: #8d2ec4;
+}
+.main{
+    height: 100vh;
+    width: 100vw;
+    background-color: #2e94c4;
+}

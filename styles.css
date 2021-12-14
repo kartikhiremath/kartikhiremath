@@ -9,6 +9,7 @@
     transition: color .2s ease-in-out;
     cursor: pointer;
 }
+
 .title:hover{
     color: #8d2ec4;
 }
